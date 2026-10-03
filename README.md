@@ -1,8 +1,10 @@
 # Luna Beauty — Salon Booking Website Template
-demo : https://luna-beauty-gray.vercel.app/ 
+
 A responsive salon and beauty business website template built with Next.js, TypeScript, CSS, and Lucide React.
 
 The template is designed for service businesses that want a polished online presence with a simple WhatsApp booking flow.
+
+demo : https://luna-beauty-gray.vercel.app/ 
 
 ## Features
 
